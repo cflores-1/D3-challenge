@@ -1,2 +1,2 @@
 # D3-challenge
-HTML &amp; JavaScript
+Utilizes: HTML &amp; JavaScript
