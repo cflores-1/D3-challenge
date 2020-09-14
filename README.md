@@ -7,4 +7,4 @@ The current data set includes data on rates of income, obesity, poverty, etc. by
 Data source: U.S. Census Bureau and the Behavioral Risk Factor Surveillance System
 https://factfinder.census.gov/faces/nav/jsf/pages/searchresults.xhtml
 
-Utilizes: HTML &amp; JavaScript
+Utilizes:JavaScript, HTML &amp;  CSS
